@@ -1,0 +1,10 @@
+{
+    "api": {
+        "userdata": "https://www.bilibili.tv/id/account/setting<bilibili_uid>",
+        "favfolder": "https://www.bilibili.tv/id/fav<bilibili_uid>",
+        "favlist": "https://www.bilibili.tv/id/fav<media_id>&ps=6",
+        "followlist": "https://api.bilibili.com/x/space/bangumi/follow/list?vmid=<bilibili_uid>&type=1&jsonp=jsonp",
+        "dynamic": "https://www.bilibili.tv/id/",
+        "video": "https://www.bilibili.tv/id/"
+    }
+}
